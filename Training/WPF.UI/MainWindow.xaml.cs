@@ -28,14 +28,12 @@ namespace WPF.UI
 
         private void btnCheck_Click(object sender, RoutedEventArgs e)
         {
-            Pizza pizza = new Pizza();
-            pizza.PizzaId = 1;
-            pizza.crust.CrustId = 2;
-            pizza.crust.Name = "Thin";
-            pizza.size.SizeId = 3;
-            pizza.size.Name = "Medium";
-
-            lstStuff.Items.Add(pizza);
+            List<Pizza> pizzas = new List<Pizza>();
+            Pizza pizza1 = new Pizza(new Sizes() { SizeId = 1, Name = "Small" }, new Crust() { CrustId = 3, Name = "Thin" });
+           
+            lstStuff.Items.Add(pizza1.size.Name);
+           // lstStuff.Items.Add(pizza.crust.Name);
+           
         }
     }
 }
