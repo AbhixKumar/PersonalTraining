@@ -1,0 +1,9 @@
+F:\Projects\PersonalTraining\Training\Training.Domain\bin\Debug\netcoreapp3.1\Training.Domain.deps.json
+F:\Projects\PersonalTraining\Training\Training.Domain\bin\Debug\netcoreapp3.1\Training.Domain.dll
+F:\Projects\PersonalTraining\Training\Training.Domain\bin\Debug\netcoreapp3.1\Training.Domain.pdb
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.csprojAssemblyReference.cache
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.AssemblyInfoInputs.cache
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.AssemblyInfo.cs
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.dll
+F:\Projects\PersonalTraining\Training\Training.Domain\obj\Debug\netcoreapp3.1\Training.Domain.pdb

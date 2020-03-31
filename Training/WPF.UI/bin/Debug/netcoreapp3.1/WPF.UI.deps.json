@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WPF.UI/1.0.0": {
+        "dependencies": {
+          "Training.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WPF.UI.dll": {}
+        }
+      },
+      "Training.Domain/1.0.0": {
+        "runtime": {
+          "Training.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Training.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
